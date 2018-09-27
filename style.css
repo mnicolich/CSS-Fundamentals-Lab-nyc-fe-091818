@@ -9,7 +9,7 @@ h1 {
 }
 figure {
   text-align: center;
-  text-size-adjust: 8;
+  
 }
 a {
   padding-left: 10px;
@@ -17,5 +17,6 @@ a {
   background-color: magenta
 }
 p {
-  width: 900px;
+  width: 800px;
+  text-align: center;
 }
