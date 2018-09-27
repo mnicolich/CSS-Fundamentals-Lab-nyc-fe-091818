@@ -16,6 +16,9 @@ a {
   padding-right: 10px;
   background-color: magenta
 }
+figcaption {
+  text-size: 8px;
+}
 p {
   width: 800px;
   text-align: center;
