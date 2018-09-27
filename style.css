@@ -5,6 +5,7 @@ body {
 }
 h1 {
   color: red;
+  align-content: center;
 }
 a {
   padding-left: 10px;
