@@ -27,3 +27,6 @@ figcaption {
 #details {
   display: block;
 }
+#details div {
+  width: 25%;
+}
